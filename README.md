@@ -1,4 +1,4 @@
-###**Project Overview**  
+### **Project Overview**  
 This project showcases the implementation of design patterns, including Singleton, Strategy, Adapter, Decorator, Factory, and Observer patterns. Each pattern contributes to different aspects of the clothing store application.  
 
 #**Singleton Pattern**  
